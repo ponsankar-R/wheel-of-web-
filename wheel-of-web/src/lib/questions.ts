@@ -1,0 +1,16 @@
+export const questions = [
+  { id: 1, title: "🛒 Smart Grocery Ordering Platform", description: "Develop a web application that allows users to browse grocery items, add them to a cart, and receive intelligent suggestions for related products. Include a feature that helps users optimize their cart within a specified budget." },
+  { id: 2, title: "🚕 Ride Booking System", description: "Create a web interface where users can enter pickup and drop locations to view estimated fares and book rides. Provide options to display different ride types based on cost and travel time." },
+  { id: 3, title: "🍔 Food Delivery Application", description: "Design a platform where users can browse restaurants, view menus, and place orders. Include a feature to recommend meals based on time of day or user preferences." },
+  { id: 4, title: "🛍️ Flash Sale E-commerce Platform", description: "Build an e-commerce website that features limited-time deals with countdown timers. Highlight products dynamically based on user interest or demand." },
+  { id: 5, title: "🧾 Resume Analysis Tool", description: "Develop a web application where users can upload resumes and receive feedback on skills, formatting, and job compatibility. Include functionality to compare resumes with job descriptions." },
+  { id: 6, title: "📚 Course Recommendation System", description: "Create a platform that lists courses and allows users to enroll. Provide personalized course suggestions based on user interests or search behavior." },
+  { id: 7, title: "🏨 Hotel Booking System", description: "Design a web application where users can search for hotels by location, view details, and make bookings. Include filters such as price, rating, and availability." },
+  { id: 8, title: "🧑‍💼 Freelance Job Marketplace", description: "Build a web platform where users can post tasks and others can apply for them. Include features for browsing jobs and selecting suitable candidates." },
+  { id: 9, title: "📦 Package Tracking System", description: "Create a dashboard where users can enter a tracking ID to view the status and progress of their delivery. Include estimated delivery timelines." },
+  { id: 10, title: "🎬 Movie Recommendation Platform", description: "Develop a web application that allows users to browse, search, and view details of movies. Provide personalized recommendations based on user preferences or selected genres." },
+  { id: 11, title: "🗳️ Online Voting System", description: "Build a secure web-based voting system where users can log in and cast votes. Ensure that each user can vote only once and results are displayed transparently." },
+  { id: 12, title: "🏋️ Fitness Tracking Application", description: "Design a web app that allows users to log workouts, track fitness progress, and set goals. Provide suggestions for improving fitness routines." },
+  { id: 13, title: "📅 Event Booking Platform", description: "Create a system where users can browse events, view details, and book tickets. Include filtering options based on category, location, and date." },
+  { id: 14, title: "🧠 Doubt Solving Platform", description: "Develop a platform where users can post questions and receive answers from others. Include features for searching questions and ranking answers." },
+];
