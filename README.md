@@ -2,23 +2,23 @@
 
 > **Spin. Solve. Submit.**
 
-Welcome to the official repository for the **[Your College/Club Name] Coding Event**! This platform adds a twist of luck to your coding skills. Students spin the digital wheel to receive a random web development problem statement and must submit their solution before the timer runs out.
+Welcome, This platform adds a twist of luck to your coding skills. Students spin the digital wheel to receive a random web development problem statement and must submit their solution before the timer runs out.
 
 ## 🚀 Features
 
 - **🎲 Interactive Wheel:** A visually engaging wheel spin animation to select challenges.
 - **📜 Random Problem Generator:** Fetches random web development problem statements from a predefined pool (HTML, CSS, JS, React, etc.).
 - **⏱️ Timer System:** Keeps track of the time remaining for each challenge.
-- **📤 Code Submission:** Integrated form to submit GitHub repo links or code snippets.
-- **🏆 Leaderboard (Optional):** Real-time tracking of submissions.
+- **📤 Code Submission:** Integrated form to submit GitHub repo links or code files.
+- **🏆 Leaderboard:** Real-time tracking of submissions.
 - **📱 Responsive Design:** Works on laptops and tablets used during the event.
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** [e.g., React.js / Vue.js / HTML5 & CSS3]
-- **Backend:** [e.g., Node.js / Express / Python Flask]
-- **Database:** [e.g., MongoDB / Firebase / SQLite]
-- **Deployment:** [e.g., Vercel / Netlify / Heroku]
+- **Frontend:** Next js 
+- **Backend:** Node js
+- **Database:** MongoDB
+
 
 ## 🎮 How It Works
 
